@@ -1,0 +1,8 @@
+C:/Users/barba/Documents/GitHub/Ejercicios_Flujo_C-/cmake-build-debug/CMakeFiles/Ejercicios_Flujo_C_.dir
+C:/Users/barba/Documents/GitHub/Ejercicios_Flujo_C-/cmake-build-debug/CMakeFiles/Ejercicios_Flujo_C_2.dir
+C:/Users/barba/Documents/GitHub/Ejercicios_Flujo_C-/cmake-build-debug/CMakeFiles/Ejercicios_Flujo_C_3.dir
+C:/Users/barba/Documents/GitHub/Ejercicios_Flujo_C-/cmake-build-debug/CMakeFiles/Ejercicios_Flujo_C_4.dir
+C:/Users/barba/Documents/GitHub/Ejercicios_Flujo_C-/cmake-build-debug/CMakeFiles/Ejercicios_Flujo_C_5.dir
+C:/Users/barba/Documents/GitHub/Ejercicios_Flujo_C-/cmake-build-debug/CMakeFiles/Ejercicios_Flujo_C_6.dir
+C:/Users/barba/Documents/GitHub/Ejercicios_Flujo_C-/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barba/Documents/GitHub/Ejercicios_Flujo_C-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
